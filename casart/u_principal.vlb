@@ -1,0 +1,13 @@
+﻿[ProgressBar1]
+Coordinates=10,10,93,58
+
+[Timer1]
+Coordinates=45,77,55,36
+
+[pt]
+Coordinates=113,10,45,58
+Visible=True
+
+[]
+Coordinates=176,1,91,36
+
