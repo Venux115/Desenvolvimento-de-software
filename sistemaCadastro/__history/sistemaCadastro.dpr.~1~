@@ -1,0 +1,14 @@
+program sistemaCadastro;
+
+uses
+  Vcl.Forms,
+  u_cadastro in 'fontes\u_cadastro.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.
