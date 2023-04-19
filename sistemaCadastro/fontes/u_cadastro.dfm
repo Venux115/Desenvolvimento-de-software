@@ -19,7 +19,23 @@ object SS: TSS
     Top = 416
     Width = 914
     Height = 46
-    Panels = <>
+    Panels = <
+      item
+        Text = 'Vin'#237'cius'
+        Width = 150
+      end
+      item
+        Text = 'Casart'
+        Width = 150
+      end
+      item
+        Text = 'Data:'
+        Width = 300
+      end
+      item
+        Text = 'Hora:'
+        Width = 150
+      end>
   end
   object MainMenu1: TMainMenu
     Left = 40
@@ -38,9 +54,15 @@ object SS: TSS
     end
     object Clientes1: TMenuItem
       Caption = 'Cadastro'
+      OnClick = Clientes1Click
       object Clientes2: TMenuItem
         Caption = 'Clientes'
       end
     end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 728
+    Top = 216
   end
 end

@@ -20,9 +20,23 @@
     <Transaction>2023/03/13 08:01:11.000.859,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2023/03/14 12:21:09.000.291,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2023/04/03 09:21:14.000.505,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2023/04/05 10:39:46.703,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2023/04/05 10:40:21.231,C:\353 2023\casart\sistemaCadastro\fontes\u_cadastro.dfm=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>2023/04/05 10:40:21.231,C:\353 2023\casart\sistemaCadastro\fontes\u_cadastro.pas=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2023/04/05 10:40:33.087,C:\353 2023\casart\sistemaCadastro\sistemaCadastro.dproj=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
-  </Transactions>
+    <Transaction>2023/04/05 10:39:46.000.703,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/05 10:40:21.000.231,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\353 2023\casart\sistemaCadastro\fontes\u_cadastro.dfm</Transaction>
+    <Transaction>2023/04/05 10:40:21.000.231,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\353 2023\casart\sistemaCadastro\fontes\u_cadastro.pas</Transaction>
+    <Transaction>2023/04/05 10:40:33.000.087,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\353 2023\casart\sistemaCadastro\sistemaCadastro.dproj</Transaction>
+    <Transaction>2023/04/19 08:09:52.623,=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 08:10:20.369,C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\fontes\u_clientes.dfm=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.dfm</Transaction>
+    <Transaction>2023/04/19 08:10:20.369,C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\fontes\u_clientes.pas=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 08:11:32.653,=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 08:21:27.486,C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\fontes\u_dm.dfm=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.dfm</Transaction>
+    <Transaction>2023/04/19 08:21:27.486,C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\fontes\u_dm.pas=C:\Users\3os Anos\Desktop\casart\Desenvolvimento-de-software\sistemaCadastro\Unit1.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="fontes"/>
+    <File Path="fontes\u_cadastro.pas"/>
+    <File Path="fontes\u_cadastro.dfm"/>
+    <File Path="fontes\u_clientes.pas"/>
+    <File Path="fontes\u_clientes.dfm"/>
+    <File Path="fontes\u_dm.pas"/>
+    <File Path="fontes\u_dm.dfm"/>
+  </ProjectSortOrder>
 </BorlandProject>
